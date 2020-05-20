@@ -12,9 +12,9 @@ How to dowload the files:
  
 #Part 2: Preparing to run the code-
 Go to your terminal and enter seperately:
-pip install seaborn
-pip install yagmail
-pip install MatplotLib 
+pip install seaborn,
+pip install yagmail,
+pip install MatplotLib, 
 pip install numpy
 
   make sure these packages download successfully 
