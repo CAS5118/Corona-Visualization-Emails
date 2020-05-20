@@ -18,24 +18,42 @@ pip install yagmail
 pip install MatplotLib 
 pip install numpy
   -make sure these packages download successfully 
+Setting up email 
+1. Go to Gmail 
+2. In the Upper right hand corner, click your Account Icon that should have your initial to your first name
+3. Click Manage Your Account
+4. On the right hand side, click Security 
+5. Go to the the Block that says "Less Secure App Access" 
+6. Turn on Less Secure App Access, note that after you have finished running the code you can turn this feature off but for the sake of the code this is crucial to send emails 
+
 
 #Part 3: Running the code-
 -Open the code "visualize.py" in Visual Studio Code for Python 
 -Run the code 
--In the terminal, you will be asked: "What is your independent variable?"
-  -Enter one of the following:[Independent variable lists]
+-In the terminal, you will be asked: "What is your independent variable?
+  -Enter one of the following:[Total Population, 2018,Population Density per Square Mile,Median Age,Per Capita Personal Income ($ Dollars),Median Household Income ($ Dollars),Total Personal Income ($ Thousands),COUNTY] without the underline
 -You will then be asked: "What is your dependent variable?"
-  -Enter one of the following:[Dependent Variable lists]
+  -Enter one of the following:[TotalCaseCount,TotalDeathCount, ProbDeaths, NegativeTests, TotalTests, PercentPos] without the underline
+  *Note if you enter "COUNTY" you can input any variable in either list to get a bargraph, any other independent variable produces a line plot 
 -For "What is the title of your graph?"
   -Enter whatever you want the title of your graph to be
+  
 -"What is your file name?"
-  -Enter what you want your file name to be
+  -Enter what you want your file name to be, below is appropriate file names depending on your operating system 
+  - Note, there is no need to a file extension to your file just make sure it follows the file conditions
+  https://docs.microsoft.com/en-us/windows/win32/fileio/naming-a-file
+  https://www.cyberciti.biz/faq/linuxunix-rules-for-naming-file-and-directory-names/
+  
 -"Who are we sending this email to"
   -Enter your first and last name (or whoever's name you are sending it to)
+  
 -"What is the sender email, by the way you can email yourself"
-  -enter your email
+  -enter your email- make sure it is gmail
+  - make sure you followed the Setting up email directions
+  
 -"Which email address would you like to receive your visualization at? :)"
-  -enter the email address that you would like to send the visualization to (it can be your own email as well)
+  -enter the email address that you would like to send the visualization to (it can be your own email as well)- make sure it is gmail
+  
 -"What is your password?"
   -Enter the email password and wait for the visualization to send to the email address. 
 
