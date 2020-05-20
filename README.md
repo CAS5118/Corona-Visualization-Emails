@@ -36,7 +36,9 @@ Setting up email
 
 -You will then be asked: "What is your dependent variable?"
   -Enter one of the following:[TotalCaseCount,TotalDeathCount, ProbDeaths, NegativeTests, TotalTests, PercentPos] without the underline
+  
   *Note if you enter "COUNTY" you can input any variable in either list to get a bargraph, any other independent variable produces a line plot 
+
 -For "What is the title of your graph?"
   -Enter whatever you want the title of your graph to be
   
