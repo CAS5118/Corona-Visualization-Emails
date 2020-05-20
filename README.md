@@ -73,9 +73,9 @@ You will then be asked: "What is your dependent variable?"
   
   - Make sure this is the password of the sender email 
   
- Part 4: Explanation of output
-  For the output of these user input prompts, the user will see 'Visualization Sent' in the terminal. They will then go to the email they inputted as the recipient to find an email from the chosen sender.
-  The text portion of the email will read:
+ Part 4: Explanation of output:
+For the output of these user input prompts, the user will see 'Visualization Sent' in the terminal. They will then go to the email they inputted as the recipient to find an email from the chosen sender.
+The text portion of the email will read:
  
 "Hello [name that you choose to input], attached is your Covid-19 Graph made specificially for you. Now that you know this information, it is important that you follow both Larry Hogan's order and the CDC's guidelines.
 Thank you for your time, stay safe.
