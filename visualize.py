@@ -5,8 +5,8 @@ import os
 import pathlib
 import numpy as np
 import matplotlib.pyplot as plt
-# Personal Assessment Chris - Data class , clean data method, plot 
-# Pesonal Assessment Maya- Yagmail stuff , try and except 
+# Personal Assessment Chris - Data class , clean data method, plot method
+# Pesonal Assessment Maya- Yagmail , Documentation, 
 # both added the loop for bargraph and lmplot
 
 class Data:
@@ -81,7 +81,7 @@ try:
     subject = "Coronavirus  Graph" #Email Subject
     content = ["Hello\t" +  name +"," "\n Attached is your Covid-19 Graph made specificially for you."  
     " Now that you know this information, it is important that you follow both Larry Hogan's order and the CDC's guidelines.Thank you for your time, stay safe.  \n\n Sincerely,  \nChristopher Solano and Maya Alli"] 
-    operation = yg.SMTP(user=sender_email, password=password_send)
+    operation = yg.SMTP(user=sender_email, password=password_send) 
     operation.send(to=recipent, subject=subject,contents=content,attachments=(fullpath))
     print("Visualization Sent")
 
