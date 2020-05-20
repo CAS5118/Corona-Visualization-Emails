@@ -39,6 +39,16 @@ pip install numpy
   -Enter the email password and wait for the visualization to send to the email address. 
 
  Part 4: Explanation of output
- -
+ -For the output of these user input prompts, the user will see 'Visualization Sent' in the terminal. They will then go to the email they inputted as the recipient to find an email from the chosen sender.
+ -The text portion of the email will read:
+ 
+"Hello [name that you choose to input], attached is your Covid-19 Graph made specificially for you. Now that you know this information, it is important that you follow both Larry Hogan's order and the CDC's guidelines.
+Thank you for your time, stay safe.
+Sincerely,
+Christopher Solano and Maya Alli"
+
+-With this email, there will be an attachment representing a graph of the data that you chose (independent and dependent variables). On the graphs, the independent variable goes on the y-axis and the dependent variable goes on the x-axis. 
+
+
 
   
