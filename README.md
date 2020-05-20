@@ -18,6 +18,9 @@ pip install MatplotLib
 pip install numpy
 
   -make sure these packages download successfully 
+-The imported files in the code include: Seaborn, Matplotlib, Yagmail, Os, and Pandas
+
+Matplotlib
 
 Setting up email 
 1. Go to Gmail 
