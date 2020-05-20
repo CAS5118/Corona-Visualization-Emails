@@ -42,9 +42,12 @@ Setting up email
   
 -"What is your file name?"
   -Enter what you want your file name to be, below is appropriate file names depending on your operating system 
-  - Note, there is no need to a file extension to your file just make sure it follows the file conditions
-  https://docs.microsoft.com/en-us/windows/win32/fileio/naming-a-file
-  https://www.cyberciti.biz/faq/linuxunix-rules-for-naming-file-and-directory-names/
+  - Note, there is no need to add file extension such as .jpeg or .png to your file, just make sure it follows the file conditions
+ 
+ https://docs.microsoft.com/en-us/windows/win32/fileio/naming-a-file
+  
+ 
+ https://www.cyberciti.biz/faq/linuxunix-rules-for-naming-file-and-directory-names/
   
 -"Who are we sending this email to"
   -Enter your first and last name (or whoever's name you are sending it to)
