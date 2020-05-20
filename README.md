@@ -17,6 +17,7 @@ pip install seaborn
 pip install yagmail
 pip install MatplotLib 
 pip install numpy
+
   -make sure these packages download successfully 
 
 Setting up email 
