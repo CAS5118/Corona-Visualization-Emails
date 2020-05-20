@@ -18,11 +18,11 @@ pip install MatplotLib,
 pip install numpy
 
   make sure these packages download successfully 
-The imported files in the code include: Seaborn, Matplotlib, Yagmail, Os, and Pandas
+The imported files in the code include: Seaborn, Matplotlib, Yagmail, OS, and Pandas
 
 -Matplotlib creates visualizations such as graphs and charts in Python, and is used in this dataset to create either a bar chart or a plot. 
 -Seaborn works as data visualization with statistics and a data visualization library that works with Matplotlib, and we used it to translate our statistics/data from our datasets into visualizations. 
--OS is a built-in Python module that gave us a way to use functions that are dependent on an operating system.
+-OS is a built-in Python module that gave us a way to use functions that are dependent on an operating system. It allowed us to create a variable fullpath, the string literal of the absolute path to the saved plot that we ended up making. 
 -Yagmail allows the user to send an email through Gmail; we used this to create a subject, allow the user to input their email and password, and provide the user their visual attachment.
 -pandas is used to manipulate data and allows us to analyse data as well. pandas allowed us to clean our data by dropping columns and/or rows in our dataset, rewording labels on the data, and create the dataframes that would be the basis for our visualizations.
 
