@@ -1,6 +1,6 @@
 # Corona-Visualization-Emails
 ##What Our Project Is: Coronavirus Visualization Emails 
--Our project is a program that gives the user a way to visualize correlations/independent and dependent variables as related to Coronavirus cases by county in Maryland. This program will prompt the user to enter information such as their chosen dependent and independent variables, first and last name, email sender and recipient, graph title, and file name; the user will then recieve an email of the visualization. 
+-Our project is a program that gives the user a way to visualize the correlations between independent and dependent variables regarding Maryland County Demographic Data and Coronavirus Data , respectively. This program will prompt the user to enter information such as their chosen dependent and independent variables, first and last name, email sender and recipient, graph title, and file name; the user will then recieve an email of the visualization. 
 
 ##Documentation/How-to of this project 
 
@@ -63,7 +63,9 @@ Setting up email
   
 -"What is your password?"
   -Enter the email password and wait for the visualization to send to the email address. 
-
+  
+  - Make sure this is the password of the sender email 
+  
  Part 4: Explanation of output
  -For the output of these user input prompts, the user will see 'Visualization Sent' in the terminal. They will then go to the email they inputted as the recipient to find an email from the chosen sender.
  -The text portion of the email will read:
@@ -73,7 +75,7 @@ Thank you for your time, stay safe.
 Sincerely,
 Christopher Solano and Maya Alli"
 
--With this email, there will be an attachment representing a graph of the data that you chose (independent and dependent variables). On the graphs, the independent variable goes on the y-axis and the dependent variable goes on the x-axis. 
+-With this email, there will be an attachment representing a graph of the data that you chose (independent and dependent variables). On the graphs, the independent variable goes on the x-axis and the dependent variable goes on the y-axis. 
 
 
 
