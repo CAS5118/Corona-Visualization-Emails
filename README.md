@@ -18,6 +18,7 @@ pip install yagmail
 pip install MatplotLib 
 pip install numpy
   -make sure these packages download successfully 
+
 Setting up email 
 1. Go to Gmail 
 2. In the Upper right hand corner, click your Account Icon that should have your initial to your first name
