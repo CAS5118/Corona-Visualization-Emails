@@ -1,3 +1,8 @@
 # Corona-Visualization-Emails
 
-## Here is Gabriel's Edits, feel free to add more below hb
+##Documentation/How-to of this project 
+
+Part 1: Dowload the files for this code-
+-How to dowload the files:
+  -
+ 
