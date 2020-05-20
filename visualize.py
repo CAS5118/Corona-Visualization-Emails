@@ -86,6 +86,7 @@ try:
     print("Visualization Sent")
 
 except:
+    """ If there is an error in the email or password"""
     print("Uhhh something went wrong \n Things that might need to be fixed" 
     "\n Sender Email was not a Google Email" 
     "\n Sender Email was not correct(misspelled)"
@@ -95,7 +96,3 @@ except:
 
 if __name__ == "__main__":
     main()
-
-    #print("Unfortunately the email was not sent. Suggestion: Make sure sender email is correct,"
-    #"make sure recipent email is correct, make sure password is correct")
-#"C:\Users\CAS\Documents\INST326\i_need_a_life.png"
