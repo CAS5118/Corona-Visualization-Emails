@@ -1,4 +1,6 @@
 # Corona-Visualization-Emails
+##What Our Project Is: Coronavirus Visualization Emails 
+-Our project is a program that gives the user a way to visualize correlations/independent and dependent variables as related to Coronavirus cases by county in Maryland. This program will prompt the user to enter information such as their chosen dependent and independent variables, first and last name, email sender and recipient, graph title, and file name; the user will then recieve an email of the visualization. 
 
 ##Documentation/How-to of this project 
 
@@ -36,6 +38,7 @@ pip install numpy
 -"What is your password?"
   -Enter the email password and wait for the visualization to send to the email address. 
 
- 
+ Part 4: Explanation of output
+ -
 
   
