@@ -33,6 +33,7 @@ Setting up email
 -Run the code 
 -In the terminal, you will be asked: "What is your independent variable?
   -Enter one of the following:[Total Population, 2018,Population Density per Square Mile,Median Age,Per Capita Personal Income ($ Dollars),Median Household Income ($ Dollars),Total Personal Income ($ Thousands),COUNTY] without the underline
+
 -You will then be asked: "What is your dependent variable?"
   -Enter one of the following:[TotalCaseCount,TotalDeathCount, ProbDeaths, NegativeTests, TotalTests, PercentPos] without the underline
   *Note if you enter "COUNTY" you can input any variable in either list to get a bargraph, any other independent variable produces a line plot 
